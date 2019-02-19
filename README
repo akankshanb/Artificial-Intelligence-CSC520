@@ -1,3 +1,7 @@
+
+TO IMPLEMENT GREEDY, DYNAMIC PROGRAMMING AND ASTAR ALGORITHM ON THE DATASET OF MAP OF USA PROVIDED
+
+
 Command to run code:
 
 python(or python3) SearchUSA.py <astar/dynamic/greedy> <source> <destination>
